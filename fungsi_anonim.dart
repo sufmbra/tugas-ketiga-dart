@@ -3,7 +3,7 @@ void main() {
   // Fungsi ini menerima satu parameter: radius (jari-jari)
   // dan mengembalikan hasil perhitungan luas lingkaran.
   var hitungLuasLingkaran = (double radius) {
-    const double pi = 3.14159; // Nilai konstanta π (pi)
+    const double pi = 3.4; // Nilai konstanta π (pi)
     double luas = pi * radius * radius; // Rumus luas lingkaran
     return luas; // Mengembalikan nilai luas
   };
